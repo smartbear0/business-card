@@ -1,0 +1,26 @@
+body {
+  margin: 20px;
+}
+
+.bear {
+  width: 150px;
+}
+
+.card {
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  width: 400px;
+  margin: 0px auto 0px auto;
+  border-bottom: 10px solid rgb(255, 119, 0);
+  background-color: #ddebf8;
+  color: #2b2839;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* we added this code to understand css-utility = It can be added to any html tag/element
+.border-blue {
+  border: 1px dotted blue;
+  
+} */
